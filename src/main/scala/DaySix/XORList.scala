@@ -12,6 +12,6 @@ class XORList {
   you can assume you have access to get_pointer and dereference_pointer functions
   that converts between nodes and memory addresses.
    */
- 
+
 
 }
