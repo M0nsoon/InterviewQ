@@ -14,7 +14,7 @@ public class StringManipulation {
     }
 
     public static void main(String[] args) {
-        
+
         System.out.println(WaysToSolve("14296"));
     }
 }
