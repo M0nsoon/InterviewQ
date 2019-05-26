@@ -34,10 +34,10 @@ For example, given s = "abcba" and k = 2,
     }
     //if not enough unique chars, returns error
     if(u < k) {
-      println("not enough uniqe chars")
+      println("not enough unique chars")
       return
     }
-    //otherwise take a window with first elemsin it
+    //otherwise take a window with first elems in it
     //start and end vars
     var current_start = 0
     var current_end = 0
